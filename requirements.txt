@@ -1,0 +1,21 @@
+setuptools
+wheel
+dotenv
+pytest
+
+custom-python-logger
+python-base-toolkit
+python-simple-email-sender
+python-vault
+python-jira-plus
+python-notion-plus
+python-pandas-translation
+python-databases
+pytest-plugins
+pytest-dynamic-parameterize
+pyrest-model-client
+
+# ## Private repos ##
+# python-custom-exceptions
+# pytest-plugin-jira-reporter
+# pytest-plugin-db-reporter
